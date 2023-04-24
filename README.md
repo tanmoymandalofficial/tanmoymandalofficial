@@ -5,9 +5,9 @@
 
 <br>
 
-<a href="https://github.com/tanmoymandalofficial/github-profile-views-counter">
+<!-- <a href="https://github.com/tanmoymandalofficial/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DenishFuletra">
-</a>
+</a> -->
 <a href="https://github.com/tanmoymandalofficial?tab=followers"><img src="https://img.shields.io/github/followers/DenishFuletra?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
