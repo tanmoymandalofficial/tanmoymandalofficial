@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 - 🌱 I’m currently learning **Backend part**
-- 👨‍💻 Personal portfolio: **<a href="https://tanmoymandalofficial.github.io" target="_blank">Portfolio</a>**
+- 👨‍💻 Personal portfolio: **<a href="https://tanmoymandalofficial.github.io/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd and BackEnd**
 - 📫 How to reach me: **tanmoymondal10409@gmail.com**
 <!-- - ⚡ Fun fact **I am half finished** -->
